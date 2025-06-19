@@ -18,7 +18,7 @@ This project uses [Robot Framework](https://robotframework.org/) and [Appium](ht
 
 2. **Install Node.js dan npm**
    ```bash
-   brew install node         # via Homebrew
+   brew install node
 
 3. **Install Appium**
    ```bash
@@ -38,7 +38,10 @@ This project uses [Robot Framework](https://robotframework.org/) and [Appium](ht
 - appium -v
 - adb devices
 
-## 📹 Demo Video
+## 📱 Demo APK
+[Trust Wallet APK ](https://trustwallet.com/id)
+
+## 📹 Automation Test Result Video
 https://imgur.com/udnSKDD
 
 ## 🚀 Running Test
